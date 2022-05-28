@@ -8,10 +8,10 @@
 
 ### - Search Engine Optimization
 ### - Online Reputation Management
-### - Social Media Marketing 
+### - Social Media Marketing
 
 ### Horiseon's servives provided with important benefits such as Lead Generation, Brand Awareness and Cost Management.
 
 ### [Link to the website]()
 
-![alt text](Horiseon.png)
+![alt text](Horiseon1.png)
